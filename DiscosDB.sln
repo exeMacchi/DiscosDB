@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{E9F55A3F-8124-4834-A0C4-88323AC62ED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{1BD1F45C-A8E1-4813-8F2D-495309E98CCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{F639AB56-F9CB-4A6E-A5CC-C26FD557E110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9F55A3F-8124-4834-A0C4-88323AC62ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F55A3F-8124-4834-A0C4-88323AC62ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F55A3F-8124-4834-A0C4-88323AC62ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F55A3F-8124-4834-A0C4-88323AC62ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD1F45C-A8E1-4813-8F2D-495309E98CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD1F45C-A8E1-4813-8F2D-495309E98CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD1F45C-A8E1-4813-8F2D-495309E98CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD1F45C-A8E1-4813-8F2D-495309E98CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F639AB56-F9CB-4A6E-A5CC-C26FD557E110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F639AB56-F9CB-4A6E-A5CC-C26FD557E110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F639AB56-F9CB-4A6E-A5CC-C26FD557E110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F639AB56-F9CB-4A6E-A5CC-C26FD557E110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {954CD690-610E-44F9-A620-45F5121A1AB2}
+	EndGlobalSection
+EndGlobal
